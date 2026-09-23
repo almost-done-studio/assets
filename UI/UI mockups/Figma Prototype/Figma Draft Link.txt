@@ -1,1 +1,7 @@
-https://www.figma.com/design/KWaV7hYij6L49tceSNVe08/Marginalia-Project?m=auto&t=6ukg1MhMXzLg50Yf-1
+https://www.figma.com/design/KWaV7hYij6L49tceSNVe08/Marginalia-Project?m=auto&t=sIdF4SwKSgaz2BRR-6
+
+Docs:
+- assets/UI/UI mockups/README.md
+- frontend/docs/ui/figma-marginalia.md
+- frontend/docs/designer-tasks/character-select-carousel.md
+- frontend/docs/MVP.md
